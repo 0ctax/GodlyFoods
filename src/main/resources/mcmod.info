@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gf",
+  "name": "Godly Foods",
+  "description": "Test Mod.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Octax"],
+  "credits": "Created by Octax.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
