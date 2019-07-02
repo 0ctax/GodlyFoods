@@ -1,5 +1,13 @@
+//Food
+
 item.avocado.name=Avocado
 item.salt.name=Salt
 item.sushi.name=Sushi
 item.boiled_egg.name=Boiled Egg
 item.fried_egg.name=Fried Egg
+item.ramen.name=Ramen
+item.rice.name=Rice
+item.doughnut.name=Doughnut
+item.bubble_gum.name=Bubble Gum
+
+//Other Stuff :P
